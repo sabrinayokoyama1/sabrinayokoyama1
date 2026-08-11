@@ -1,5 +1,5 @@
 # ⭐ About me
-👩🏻‍💻 Data Analyst @ Afinz Bank<br>🎓 6/8 Bachelor’s degree in Data Science & AI<br>🧠 Currently learning Artificial Neural Networks and Machine Learning<br> ╰(*°▽°*)╯
+👩🏻‍💻 Data Analyst @ Afinz Bank<br>🎓 6/8 Bachelor’s degree in Data Science & AI<br>🧠 Currently learning Artificial Neural Networks and Machine Learning<br> ╰(*°▽°*)╯💜
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sabrina-yokoyama/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33022751) 
