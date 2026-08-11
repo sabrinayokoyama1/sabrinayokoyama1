@@ -1,3 +1,4 @@
+![](https://github.com/sabrinayokoyama1/sabrinayokoyama1/starfall.gif)
 # ⭐ About me
 👩🏻‍💻 Data Analyst @ Afinz Bank<br>🎓 6/8 Bachelor’s degree in Data Science & AI<br>🧠 Currently learning Artificial Neural Networks and Machine Learning<br> ╰(*°▽°*)╯💜
 
